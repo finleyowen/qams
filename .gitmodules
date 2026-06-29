@@ -1,0 +1,6 @@
+[submodule "qams_cli"]
+	path = qams_cli
+	url = https://github.com/finleyowen/qams_cli
+[submodule "qams_core"]
+	path = qams_core
+	url = https://github.com/finleyowen/qams_core
