@@ -9,8 +9,8 @@ The QAMS CLI is intended to be an intermediary step before implementing QAMS as 
 Sets up a new QAMS instance in the current directory.
 
 **Options**:
-- `-s`/`--path-to-scorecard` (required): path to scorecard as CSV (see [here](./scorecard_csv.md)).
-- `-a`/`--path-to-agents` (required): path to a list of agents (as rows) and optional metadata about them (as columns). The first column must contain the agent's full name or some other unique identifier.
+- `-s`/`--path-to-scorecard` (default = `./scorecard.csv`): path to scorecard as CSV (see [here](./scorecard_csv.md)).
+- `-a`/`--path-to-agents` (default = `./agents.csv`): path to a list of agents (as rows) and optional metadata about them (as columns). The first column must contain the agent's full name or some other unique identifier.
 - `-r`/`--path-to-metadata` (optional): if included, reviews in this QAMS instance will have inputs for the metadata fields described in the report. The metadata should only consist of short-mid length strings data.
 
 **Note 1**: see [Scorecard CSV Representation](./scorecard_csv.md)
@@ -38,3 +38,7 @@ Generates a report from all reviews dated within the range specified. See [QAMS 
 **Options**: same as options for [init](#init) except all arguments are optional.
 
 Allows the user to update the scorecard, agents, or review metadata for future reviews and reports.
+
+## See also
+
+- [CLI Options](./options.md)
