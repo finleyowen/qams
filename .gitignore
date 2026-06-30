@@ -2,3 +2,4 @@ test_inst/.qams/
 test_inst/reviews/
 test_inst/reports/
 test_inst/scorecard.html
+test_inst/options.toml
