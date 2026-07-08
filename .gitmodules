@@ -1,3 +1,6 @@
 [submodule "qams_core"]
 	path = qams_core
 	url = https://github.com/finleyowen/qams_core
+[submodule "qams_server"]
+	path = qams_server
+	url = https://github.com/finleyowen/qams_server

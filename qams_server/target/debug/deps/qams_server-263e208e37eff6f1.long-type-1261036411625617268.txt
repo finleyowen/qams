@@ -1,4 +1,0 @@
-models::_::<impl Deserialize<'de> for models::AgentRow>::deserialize::__Field
-models::_::<impl Deserialize<'de> for models::ReportRow>::deserialize::__Field
-models::_::<impl Deserialize<'de> for models::ReviewRow>::deserialize::__Field
-models::_::<impl Deserialize<'de> for models::ScorecardRow>::deserialize::__Field
