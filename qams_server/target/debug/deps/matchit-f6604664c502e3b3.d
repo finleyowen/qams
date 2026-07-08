@@ -1,0 +1,12 @@
+/home/finley/Desktop/Code/qams/qams_server/target/debug/deps/matchit-f6604664c502e3b3.d: /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/lib.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/error.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/escape.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/params.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/router.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/tree.rs
+
+/home/finley/Desktop/Code/qams/qams_server/target/debug/deps/libmatchit-f6604664c502e3b3.rlib: /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/lib.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/error.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/escape.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/params.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/router.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/tree.rs
+
+/home/finley/Desktop/Code/qams/qams_server/target/debug/deps/libmatchit-f6604664c502e3b3.rmeta: /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/lib.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/error.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/escape.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/params.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/router.rs /home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/tree.rs
+
+/home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/lib.rs:
+/home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/error.rs:
+/home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/escape.rs:
+/home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/params.rs:
+/home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/router.rs:
+/home/finley/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matchit-0.8.4/src/tree.rs:
