@@ -1,0 +1,3 @@
+# QAMS Technical Specification
+
+QAMS is written in the [Rust](https://rust-lang.org/) programming language (both the [core library](https://github.com/finleyowen/qams_core) and the [HTTP server](https://github.com/finleyowen/qams_server)). It uses a single HTTP server that serves HTML pages directly as well as handling back-end functionality, rather than a full-stack architecture. The QAMS server communicates with a [MySQL](https://www.mysql.com/) (or [MariaDB](https://mariadb.org/)) database through the [SQLx](https://docs.rs/sqlx/latest/sqlx/) ORM for Rust.
