@@ -1,9 +1,5 @@
 @startuml scorecard
 
-skinparam monochrome false
-skinparam classFontStyle bold
-skinparam linetype ortho
-
 ' ── Enum ─────────────────────────────────────────────────────
 enum CriterionScore {
   Points(PointsType)
@@ -30,10 +26,9 @@ class Criterion {
 ' ── Struct: Scorecard ────────────────────────────────────────
 class Scorecard {
   - criteria : HashMap<String, Criterion>
-  + get_numerator(sel) : PointsType
-  + get_denominator(sel) : PointsType
-  + is_autofail(sel) : bool
-  + {static} from_csv_string(csv: &str) : Result<Scorecard, String>
+  + get_numerator(sel: &HashMap<String, String>) : PointsType
+  + get_denominator(sel: &HashMap<String, String>) : PointsType
+  + is_autofail(sel: &HashMap<String, String>) : bool
 }
 
 ' ── Relationships ────────────────────────────────────────────
