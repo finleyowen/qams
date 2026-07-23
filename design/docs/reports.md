@@ -2,9 +2,9 @@
 
 A QAMS report aggregates over multiple reviews for multiple agents on the same scorecard. Each QAMS report also contains information about previous reports on the same scorecard. For a given agent, a given report might contain zero, one, or many reviews for that agent.
 
-To generate a QAMS report, a **reporting period** (start date, end date; both inclusive) and an **accumulation period** (number of reporting periods) needs to be supplied. The reporting period determines which reviews should be included in the current report, while the accumulation period determines how many previous reports should be used to compute the current report. 
+A QAMS report has a **reporting period** (consisting of a start date and an end date, both inclusive) and an **accumulation period** (number of reporting periods). The reporting period determines which reviews should be included in the report, while the accumulation period determines how many previous reports should be used to compute the report.
 
-Each scorecard is associated with a default reporting period duration. By default, the reporting period starts the day after the previous reporting period ends, and the end date is calculated from the start date and the default reporting period duration for that scorecard. By default, the accumulation period is be the number of previous reports available.
+Each scorecard is associated with a **default reporting duration** (see [scorecards](./scorecards.md)). By default, the reporting period starts the day after the previous reporting period ends, and the end date is calculated from the start date and the default reporting duration for that scorecard. By default, the accumulation period is be the number of previous reports available.
 
 A QAMS report consists of the following:
 

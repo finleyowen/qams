@@ -8,4 +8,4 @@ Note that the `ScorecardComponent` trait achieves the **Composition** design pat
 
 The QAMS handles creation and editing of scorecards. Scorecards are used to produce [reviews](./reviews.md).
 
-Each scorecard is also associated with a default reporting period duration, which indicates how often a report is expected to be generated for the scorecard. For example, if a scorecard has a default reporting period duration of 1 week, then it is expected that a report will be produced from that scorecard every week. See [QAMS Reports](./reports.md)
+Each scorecard is also associated with a **default reporting duration**, which indicates how often a report is expected to be generated for the scorecard. For example, if a scorecard has a default reporting duration of 1 week, then the software expects that a report will be produced from that scorecard every week. See [reports](./reports.md).
