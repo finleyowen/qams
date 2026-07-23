@@ -1,6 +1,6 @@
 # QAMS Scorecards
 
-A scorecard defines criteria and their associated scores. The following partial class diagram is provided to show the relationships between scorecards, criteria, and criterion scores. Note that the 'classes' in the class diagram are actually implemented as Rust `struct`s, and the "interfaces" are actually implemented as Rust `trait`s.
+A scorecard defines criteria and their associated scores. The following partial class diagram is provided to show the relationships between scorecards, criteria, and criterion scores. Note that the 'classes' in the class diagram are actually implemented as Rust `struct`s, and the 'interfaces' are actually implemented as Rust `trait`s.
 
 ![Class diagram for the scorecard module](../uml/scorecard.png)
 
